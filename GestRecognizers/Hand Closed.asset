@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a656f0ae3aca7dd4db96f79abdd7692b, type: 3}
+  m_Name: Hand Closed
+  m_EditorClassIdentifier: 
+  recognizerName: 
+  pose:
+    jointAngles:
+    - 0.42550898
+    - 0.30062374
+    - 0.49027187
+    - 0.18400127
+    - 0.4602184
+    - 0.95727503
+    - 0.12301237
+    - 0.37866825
+    - 0.8969935
+    - 0.092690445
+    - 0.2676924
+    - 0.86102194
+    - 0.05792478
+    - -0.13444774
+    - 0.7904253
+  matchFit: 1
+  jointWeights:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
